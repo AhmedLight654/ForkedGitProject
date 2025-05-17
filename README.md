@@ -2,6 +2,8 @@
 
 I have added this line by making a pull request
 
+Note about this forked repo:This repo was forked when the main repository had the main branch set as the default. Since then, the main branch has been removed from the main repo for a reason, which are explained-in the README.md file of the master branch in the main repository.
+
 This project is created to demonstrate my understanding of Git, including repository setup, branching, merging, and remote collaboration using GitHub.
 
 ## Project Structure
